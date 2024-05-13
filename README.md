@@ -1,6 +1,6 @@
 # Hi there!👋🏻 I'm Chetan Yadav.
 
-- I'm a 3nd year Computer Science Engineering student at Institute of Engineering & Science, IPS Academy Indore.
+- I'm a 3rd year Computer Science Engineering student at Institute of Engineering & Science, IPS Academy Indore.
 - I'm currently learning React and Data Structures and Algorithms in C++.
 
 ## GitHub Stats 
